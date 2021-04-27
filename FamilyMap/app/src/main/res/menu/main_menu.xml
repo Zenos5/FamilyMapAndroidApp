@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.MainActivity"
+    android:layout_height="wrap_content"
+    android:layout_width="wrap_content">
+
+    <item android:id="@+id/action_search"
+        app:showAsAction="ifRoom"
+        android:title="@string/search_item_title" />
+
+    <item android:id="@+id/action_settings"
+        app:showAsAction="ifRoom"
+        android:title="@string/settings_item_title" />
+</menu>

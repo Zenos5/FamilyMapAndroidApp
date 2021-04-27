@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Family Map</string>
+    <string name="server_host_header">Server Host:</string>
+    <string name="server_port_header">Server Port:</string>
+    <string name="user_name_header">User Name:</string>
+    <string name="password_header">Password:</string>
+    <string name="first_name_header">First Name:</string>
+    <string name="last_name_header">Last Name:</string>
+    <string name="email_header">Email:</string>
+    <string name="gender_header">Gender:</string>
+    <string name="login_button">SIGN IN</string>
+    <string name="register_button">REGISTER</string>
+    <string name="male_fill_in_button">Male</string>
+    <string name="female_fill_in_button">Female</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="gender_icon">Gender Icon</string>
+    <string name="life_story_lines_header">Life Story Lines</string>
+    <string name="life_story_lines_description">SHOW LIFE STORY LINES</string>
+    <string name="family_tree_lines_header">Family Tree Lines</string>
+    <string name="family_tree_lines_description">SHOW FAMILY TREE LINES</string>
+    <string name="spouse_lines_header">Spouse Lines</string>
+    <string name="spouse_lines_description">SHOW SPOUSE LINES</string>
+    <string name="father_side_header">Father\'s Side</string>
+    <string name="father_side_description">FILTER BY FATHER\'S SIDE OF THE FAMILY</string>
+    <string name="mother_side_header">Mother\'s Side</string>
+    <string name="mother_side_description">FILTER BY MOTHER\'S SIDE OF THE FAMILY</string>
+    <string name="male_events_header">Male Events</string>
+    <string name="female_events_header">Female Events</string>
+    <string name="gender_events_description">FILTER EVENTS BASED ON GENDER</string>
+    <string name="logout_button_header">Logout</string>
+    <string name="logout_button_description">RETURN TO LOGIN SCREEN</string>
+    <string name="person_first_name_header">First Name</string>
+    <string name="person_last_name_header">Last Name</string>
+    <string name="person_gender_header">Gender</string>
+    <string name="life_events_header">LIFE EVENTS</string>
+    <string name="family_header">FAMILY</string>
+    <string name="event_icon">Event Icon</string>
+    <string name="map_default_text_1">Click on a marker to see event</string>
+    <string name="map_default_text_2">details</string>
+    <string name="search_item_title">Search Item</string>
+    <string name="settings_item_title">Settings Item</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+</resources>
